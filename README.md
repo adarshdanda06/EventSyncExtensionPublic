@@ -2,6 +2,18 @@
 
 A Chrome extension that simplifies calendar event creation by extracting event information from screenshots using AI.
 
+## Quick Demo
+https://youtu.be/-OAak1aB1c4
+
+## ⚠️ Important — Access Required
+
+The [deployed version on the Chrome Web Store](https://chromewebstore.google.com/detail/eventsync/chnofleapjabgiindnncfkifjllceikl) is **private** and will not function unless you’ve been granted access.
+
+If you’d like to try out the deployed version, please email me at **adarsh.danda1@gmail.com** with the following information:
+
+- Your **Gmail address** (required for access authorization)
+
+> **Note:** Due to service costs, access cannot be guaranteed for all requests.
 ## Setup Instructions
 
 ### Extension Setup
@@ -57,4 +69,5 @@ A Chrome extension that simplifies calendar event creation by extracting event i
 - All sensitive information has been redacted for public release
 - Replace placeholder values with your actual API keys and IDs
 - Never commit real API keys to version control
+
 
