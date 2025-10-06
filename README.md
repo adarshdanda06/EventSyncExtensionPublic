@@ -1,3 +1,4 @@
+# [Chrome Web Store Link](https://chromewebstore.google.com/detail/eventsync/chnofleapjabgiindnncfkifjllceikl)
 # EventSync Extension
 
 A Chrome extension that simplifies calendar event creation by extracting event information from screenshots using AI.
